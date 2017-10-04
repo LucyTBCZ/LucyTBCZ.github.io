@@ -1,0 +1,70 @@
+.burger{
+  margin:auto;
+}
+
+.bun-top{
+  background-color: #D4B16A;
+  border-top: dashed 2px #805c15;
+  border-bottom: solid 10px #805c15;
+  width:400px;
+  height:90px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  margin:auto;
+  text-align: center;
+}
+
+.pickle{
+  height:30px;
+  width: 150px;
+  margin: auto;
+  background-color: darkgreen;
+  border-radius:50%;
+}
+.tomato{
+  background-color: #FF3100;
+  height:30px;
+  width:300px;
+  border-radius:45%;
+  margin:auto;
+}
+
+.oignon{
+  background:purple;
+  height:10px;
+  width:300px;
+  border-bottom:none;
+  border-top: dotted 10px white;
+  margin: auto;
+  border-radius:50px;
+}
+.cheese{
+  height:15px;
+  width:350px;
+  margin:auto;
+  background-color: yellow;
+  border-radius:20%;
+}
+
+.steak {
+  height:60px;
+  width:350px;
+  background-color:#473202;
+  border-radius: 20%;
+  margin:auto;
+}
+
+.bun-bottom{
+  background-color: #D4B16A;
+  border-top: solid 10px #805c15;
+  width:400px;
+  height:90px;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  margin:auto;
+  text-align: center;
+}
