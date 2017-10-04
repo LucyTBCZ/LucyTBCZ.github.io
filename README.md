@@ -26,3 +26,5 @@ Mon **parcours** en maximum 2 ou 3 étapes majeures.
 ## Demain
 
 *Mon projet professionnel, c'est de rejoindre une entreprise en tant que développeuse full stack à la suite d'un éventuel contrat de professionnalisation.*
+
+[Me contacter](indexBurger.html)
