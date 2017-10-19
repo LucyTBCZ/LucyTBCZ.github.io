@@ -1,0 +1,32 @@
+body{
+	font-family: Lato, Verdana, sans-serif;
+	font-size:18px;
+	color:white;
+	background-image: url(https://tse3.mm.bing.net/th?id=OIP.DE82vMf6_wObjKw2ApmM9QEsDR&pid=15.1&P=0&w=260&h=183);
+	background-size:100%;
+}
+
+button{
+	margin-top:10px;
+	margin-bottom: 10px;
+  	border-radius: 10px;
+  	color: #273b82;
+  	font-size: 18px;
+  	background: #ffffff;
+  	padding: 10px 20px 10px 20px;
+  	text-decoration: none;
+}
+
+button:hover {
+ 	background: #ffffff;
+  	background-image: linear-gradient(to bottom, #ffffff, #244d69);
+  	text-decoration: none;
+}
+
+
+@media screen (min-width:800px){
+	main{
+		background-color: white
+		opacity:0.3;
+	}
+}

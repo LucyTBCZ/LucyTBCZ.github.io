@@ -1,0 +1,120 @@
+.container{
+    background:url("https://tse1.mm.bing.net/th?id=OIP.eJFcdqGW0eTaHOqB9kyBQwEsDh&pid=15.1&P=0&w=207&h=156") no-repeat;
+    background-size:100%;
+}
+
+.image{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.paragraphe{
+    background-color:#e8fad4;
+    margin-top:50px;
+    border: solid 3px #c6e7b8;
+    border-radius:5px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2em;
+    color:#97d48d;
+    text-align:center;
+    
+}
+
+.formulaire{
+    margin-top:50px;
+    margin-bottom:50px;
+    background-color:#e8fad4;
+    border: solid 3px #c6e7b8;
+    border-radius:5px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+    color:#97d48d;
+    padding:auto;
+}
+
+button{
+  border-radius: 28px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5em;   
+  color:#97d48d;
+  background: #c6e7b8;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top:auto;
+  margin-bottom:10px;
+}
+
+button:hover {
+  background: #e8fad4;
+  text-decoration: none;
+}
+input{
+  max-width:99%;
+}
+
+.follow{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5em;   
+  color:grey;
+}
+
+@media only screen and (max-width:680px){
+.container{
+    background:url("https://tse1.mm.bing.net/th?id=OIP.eJFcdqGW0eTaHOqB9kyBQwEsDh&pid=15.1&P=0&w=207&h=156") no-repeat;
+    background-size:100%;
+}
+
+.image{
+    margin-top:100px;
+    margin-bottom:100px;
+    display:flex;
+    justify-content:center;
+}
+
+.paragraphe{
+    background-color:#e8fad4;
+    margin-top:100px;
+    border: solid 3px #c6e7b8;
+    border-radius:5px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2em;
+    color:#97d48d;
+    text-align:center;
+}
+
+.formulaire{
+    margin-top:50px;
+    background-color:#e8fad4;
+    border: solid 3px #c6e7b8;
+    border-radius:5px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+    color:#97d48d;
+    padding:10px;
+}
+
+button{
+  border-radius: 28px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5em;   
+  color:#97d48d;
+  background: #c6e7b8;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #e8fad4;
+  text-decoration: none;
+}
+
+input{
+  max-width:99%;
+}
+
+.follow{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1em;   
+  color:grey;
+}
+}
