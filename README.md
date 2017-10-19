@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: index3.html
+permalink: index.html
 ---
 # username
 
